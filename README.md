@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ### Bi-LSTM Model
 - Accuracy: 71.14%
 - Training time: 30 minutes
-- File: `BiLSTM_PHUNTSHO.py`
+- File: `BiLSTM_v1.py`
 
 ### GRU Model (BEST)
 - Accuracy: 74.03%
